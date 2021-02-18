@@ -1,0 +1,10 @@
+"0",""
+"0","#unite "
+"0",""
+"0",""
+"0","pre_post %>% "
+"0","  unite(., col = ""new"", c(""group"", ""level""), sep = ""_"")"
+"2","Error: Can't subset columns that don't exist.
+[31mx[39m Column `group` doesn't exist.
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"
