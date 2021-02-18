@@ -3,7 +3,7 @@
     "path": "C:/Users/gallo/OneDrive/Desktop/data_wrangling/index.rmd",
     "project_path": "index.rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "215959079",
     "contents": "",
     "dirty": false,
     "created": 1613056644640.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "19,63",
-        "scrollLine": "5"
+        "cursorPosition": "39,0",
+        "scrollLine": "21"
     },
     "folds": "",
-    "lastKnownWriteTime": 1613662665,
+    "lastKnownWriteTime": 1613663225,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613662665497,
+    "last_content_update": 1613663225193,
     "read_only": false,
     "read_only_alternatives": []
 }
