@@ -1,6 +1,6 @@
 {
     "id": "8E93015B",
-    "path": "C:/Users/gallo/OneDrive/Desktop/data_wrangling/index.rmd",
+    "path": "~/GitHub/data_wrangling/index.rmd",
     "project_path": "index.rmd",
     "type": "r_markdown",
     "hash": "0",
@@ -11,7 +11,7 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "5,0",
+        "cursorPosition": "13,0",
         "scrollLine": "0"
     },
     "folds": "",
